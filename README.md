@@ -1,5 +1,29 @@
-# Vue 3 + TypeScript + Vite
+# GURSIMRAN KAUR - STUDENT NUMBER: 041120314
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Assignment – Contact Book
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+This is a simple Contact Book application built using **Vue 3**, **Vite**, and **local storage**. The project allows users to:
+- View contacts listed alphabetically by their last name.
+- Search contacts by first and last name.
+- Add new contacts.
+- Edit existing contacts.
+- Delete contacts.
+
+### Technologies Used:
+- Vue 3
+- Vite
+- Local Storage
+- Vue Router
+
+### Project Features:
+- **Contact List View:** Displays a list of all contacts.
+- **Contact Details View:** Shows detailed information about a selected contact.
+- **Add Contact Form:** Allows users to add a new contact to the list.
+- **Edit Contact Form:** Allows users to edit contact details.
+- **Delete Contact Button:** Removes a contact from the list and from local storage.
+
+The project is designed to be simple, intuitive, and easy to use.
+
+For further details on Vue 3 and Vite, check out the official documentation:
+- [Vue 3 Documentation](https://vuejs.org/)
+- [Vite Documentation](https://vitejs.dev/)
